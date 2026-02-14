@@ -1,0 +1,16 @@
+2026-02-14 16:13:47 * [INF] * Hello Info logger lala:1421
+2026-02-14 16:13:47 * [ERR] * { logix.c:12 main() } * Hello Error logger lala:1421
+2026-02-14 16:13:47 * [FTL] * { logix.c:13 main() } * Hello Fatal logger lala:1421
+2026-02-14 16:14:06 * [INF] * Info logger lala:1421
+2026-02-14 16:14:06 * [ERR] * { logix.c:12 main() } * Error logger lala:1421
+2026-02-14 16:14:06 * [FTL] * { logix.c:13 main() } * Fatal logger lala:1421
+2026-02-14 16:16:51 * [INF] * Info logger xyz:123
+2026-02-14 16:16:51 * [ERR] * { logix.c:12 main() } * Error logger xyz:123
+2026-02-14 16:16:51 * [INF] * Info logger lala:1421
+2026-02-14 16:16:51 * [ERR] * { logix.c:17 main() } * Error logger lala:1421
+2026-02-14 16:16:51 * [FTL] * { logix.c:18 main() } * Fatal logger lala:1421
+2026-02-14 16:18:04 * [INF] * Info logger xyz:123
+2026-02-14 16:18:04 * [ERR] * { logix.c:10 main() } * Error logger xyz:123
+2026-02-14 16:18:04 * [INF] * Info logger lala:1421
+2026-02-14 16:18:04 * [ERR] * { logix.c:15 main() } * Error logger lala:1421
+2026-02-14 16:18:04 * [FTL] * { logix.c:16 main() } * Fatal logger lala:1421
