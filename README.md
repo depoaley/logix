@@ -5,9 +5,9 @@ Always prints to console and appends to a file.
 
 ## Features
 
-- Stream routing: INFO messages are written to stdout, while -ERROR- and -FATAL- messages are written to stderr.
-- Call-site context for failures: -ERROR- and -FATAL- logs include the origin of the log call (\_\_FILE\_\_, \_\_LINE\_\_, \_\_func\_\_) to make debugging faster.
-- Crash-stop logging: -FATAL- writes the message (console + file) and then terminates the program.
+- Stream routing: 'INFO' messages are written to stdout, while 'ERROR' and 'FATAL' messages are written to stderr.
+- Call-site context for failures: 'ERROR' and 'FATAL' logs include the origin of the log call (\_\_FILE\_\_, \_\_LINE\_\_, \_\_func\_\_) to make debugging faster.
+- Crash-stop logging: 'FATAL' writes the message (console + file) and then terminates the program.
 
 ## Usage
 
